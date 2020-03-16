@@ -40,3 +40,11 @@ ENV/
 
 # generated files
 public/
+
+.idea/encodings.xml
+
+.idea/dbnavigator.xml
+
+.idea/codeStyles/Project.xml
+
+.idea/codeStyles/
