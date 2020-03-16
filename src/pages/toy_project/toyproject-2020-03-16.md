@@ -1,10 +1,10 @@
 ---
-path: "/post-1/"
-category: "test"
-tags: ["tag", "tag-2"]
-title: "Lorem Ipsum"
-date: "2018-01-01T00:00:00.000Z"
-summary: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+path: "/toy_project/"
+category: "ToyProject"
+tags: ["ToyProject", "ToyProject start"]
+title: "First Post"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+summary: "android first post"
 images: ["images/1.jpg"]
 ---
 
